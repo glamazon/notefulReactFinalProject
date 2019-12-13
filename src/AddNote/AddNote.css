@@ -1,0 +1,31 @@
+button{
+    margin: 4px;
+}
+
+.addnote_section input{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+.addnote_section{
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 350px;
+}
+
+#noteContent{
+    margin-right: 50px;
+    height: 147px;
+    width: 315px;
+    margin-bottom: 10px;
+}
+
+#folderOption{
+    margin-right: 150px;
+    margin-bottom: 10px;
+}
+
+.addnote_section button{
+    width: 100px;
+}
