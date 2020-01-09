@@ -29,7 +29,7 @@ class AddFolder extends React.Component {
     e.preventDefault()
     let folderId = nextId() + "folder";
     const folder = {
-      id: folderId,
+   //   id: folderId,
       name: e.target['folderName'].value
     }
 

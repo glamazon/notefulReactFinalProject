@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { parseISO, format } from 'date-fns';
+import { format } from 'date-fns';
+import parseISO from 'date-fns/parseISO';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import ApiContext from '../ApiContext'
 import config from '../config'
